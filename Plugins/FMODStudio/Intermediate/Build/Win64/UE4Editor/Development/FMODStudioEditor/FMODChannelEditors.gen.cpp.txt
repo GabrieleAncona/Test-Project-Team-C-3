@@ -1,0 +1,18 @@
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+C:\Users\Gabriele\Desktop\Progetto-Team-C-3\Plugins\FMODStudio\Source\FMODStudioEditor/Private/Sequencer/FMODChannelEditors.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Editor\Sequencer\Public\SequencerChannelTraits.h
+c:\program files\epic games\ue_4.25\engine\source\editor\sequencer\public\ISequencerChannelInterface.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneChannelProxy.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneChannelEditorDataEntry.h
+c:\program files\epic games\ue_4.25\engine\source\editor\sequencer\public\KeyDrawParams.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneClipboard.h
+c:\program files\epic games\ue_4.25\engine\source\editor\sequencer\public\SequencerClipboardReconciler.h
+c:\program files\epic games\ue_4.25\engine\source\editor\sequencer\public\SequencerKeyStructGenerator.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Sequencer\SequencerKeyStructGenerator.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneByteChannel.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneByteChannel.generated.h
+C:\Users\Gabriele\Desktop\Progetto-Team-C-3\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer/FMODEventControlSection.h
+C:\Users\Gabriele\Desktop\Progetto-Team-C-3\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODEventControlSection.generated.h
+c:\users\gabriele\desktop\progetto-team-c-3\plugins\fmodstudio\intermediate\build\win64\ue4editor\inc\fmodstudioeditor\FMODChannelEditors.generated.h

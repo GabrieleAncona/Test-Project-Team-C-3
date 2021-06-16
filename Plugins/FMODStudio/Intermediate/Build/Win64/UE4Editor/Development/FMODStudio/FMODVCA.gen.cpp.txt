@@ -1,0 +1,7 @@
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+C:\Users\Gabriele\Desktop\Progetto-Team-C-3\Plugins\FMODStudio\Source\FMODStudio/Classes/FMODVCA.h
+c:\users\gabriele\desktop\progetto-team-c-3\plugins\fmodstudio\source\fmodstudio\classes\FMODAsset.h
+c:\users\gabriele\desktop\progetto-team-c-3\plugins\fmodstudio\intermediate\build\win64\ue4editor\inc\fmodstudio\FMODAsset.generated.h
+c:\users\gabriele\desktop\progetto-team-c-3\plugins\fmodstudio\intermediate\build\win64\ue4editor\inc\fmodstudio\FMODVCA.generated.h

@@ -1,0 +1,6 @@
+C:\Users\Gabriele\Desktop\Progetto-Team-C-3\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshotReverb.h
+c:\users\gabriele\desktop\progetto-team-c-3\plugins\fmodstudio\source\fmodstudio\classes\FMODAsset.h
+C:\Users\Gabriele\Desktop\Progetto-Team-C-3\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODAsset.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/ReverbEffect.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ReverbEffect.generated.h
+C:\Users\Gabriele\Desktop\Progetto-Team-C-3\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODSnapshotReverb.generated.h

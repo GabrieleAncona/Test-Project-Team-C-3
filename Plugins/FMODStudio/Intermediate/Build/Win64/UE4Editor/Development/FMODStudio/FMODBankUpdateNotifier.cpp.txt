@@ -1,0 +1,5 @@
+c:\users\gabriele\desktop\progetto-team-c-3\plugins\fmodstudio\source\fmodstudio\private\FMODBankUpdateNotifier.h
+C:\Users\Gabriele\Desktop\Progetto-Team-C-3\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
+C:\Users\Gabriele\Desktop\Progetto-Team-C-3\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODSettings.generated.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/FileManager.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h

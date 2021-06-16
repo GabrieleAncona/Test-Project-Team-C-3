@@ -1,0 +1,8 @@
+C:\Users\Gabriele\Desktop\Progetto-Team-C-3\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBank.h
+c:\users\gabriele\desktop\progetto-team-c-3\plugins\fmodstudio\source\fmodstudio\classes\FMODAsset.h
+C:\Users\Gabriele\Desktop\Progetto-Team-C-3\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODAsset.generated.h
+C:\Users\Gabriele\Desktop\Progetto-Team-C-3\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODBank.generated.h
+C:\Users\Gabriele\Desktop\Progetto-Team-C-3\Plugins\FMODStudio\Source\FMODStudio\Public\FMODStudioModule.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+C:\Program Files\Epic Games\UE_4.25\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
