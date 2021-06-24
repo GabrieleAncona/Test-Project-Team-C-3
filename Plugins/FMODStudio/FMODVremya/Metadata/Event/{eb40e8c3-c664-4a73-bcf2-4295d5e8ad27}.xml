@@ -8,7 +8,7 @@
 			<value>1</value>
 		</property>
 		<relationship name="folder">
-			<destination>{65025b42-ad62-4337-8343-43105261fbb8}</destination>
+			<destination>{6d77c668-a092-4e9c-805a-c79e6e61c46d}</destination>
 		</relationship>
 		<relationship name="mixer">
 			<destination>{0f3e8032-f6a8-4698-aa5d-8a86199f772b}</destination>
@@ -101,7 +101,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{fec9a887-8983-4372-9020-503b54f26647}">
 		<property name="volume">
-			<value>-5</value>
+			<value>-1</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>
@@ -119,6 +119,7 @@
 	<object class="MixerBusEffectChain" id="{9ece2219-a4aa-4db8-9931-925a10dd04e5}">
 		<relationship name="effects">
 			<destination>{d7780723-46ce-4f52-9f05-a33e6632650c}</destination>
+			<destination>{7a23d582-c948-4688-b0f6-e165803e43ad}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{6389acc2-79c9-4d32-8b77-ce3be9ed0f99}" />
@@ -146,9 +147,35 @@
 	<object class="MixerBusEffectChain" id="{44ddbae3-b976-4ac4-b463-59cc4b1914cd}">
 		<relationship name="effects">
 			<destination>{cd6c0517-e4bb-4635-b741-7dcbe84607c3}</destination>
+			<destination>{48725b72-a844-45c8-be80-e45a82955e09}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{28609ea0-650d-43b7-b3eb-86d3ec93676f}" />
 	<object class="MixerBusFader" id="{d7780723-46ce-4f52-9f05-a33e6632650c}" />
+	<object class="SFXReverbEffect" id="{7a23d582-c948-4688-b0f6-e165803e43ad}">
+		<property name="decayTime">
+			<value>2100</value>
+		</property>
+		<property name="lateDelay">
+			<value>30</value>
+		</property>
+		<property name="HFDecayRatio">
+			<value>23</value>
+		</property>
+		<property name="highCut">
+			<value>3400</value>
+		</property>
+		<property name="earlyLateMix">
+			<value>72</value>
+		</property>
+		<property name="wetLevel">
+			<value>-7.4000001</value>
+		</property>
+	</object>
 	<object class="MixerBusFader" id="{cd6c0517-e4bb-4635-b741-7dcbe84607c3}" />
+	<object class="DistortionEffect" id="{48725b72-a844-45c8-be80-e45a82955e09}">
+		<property name="level">
+			<value>0.13499999</value>
+		</property>
+	</object>
 </objects>
