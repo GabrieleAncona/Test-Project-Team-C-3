@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{2d8926f2-d638-46fe-942d-724b55cb4d7e}">
+		<property name="assetPath">
+			<value>Sci-Fi, Weapon, Lightsaber, Swing, Electronic Hum 7 SND32378.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>3.5166666666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b8a6d918-b759-4c3e-9b07-5e4029250fc5}</destination>
+		</relationship>
+	</object>
+</objects>

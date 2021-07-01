@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{983e3f5f-bbab-4db2-819d-d9be6f361104}">
+		<property name="assetPath">
+			<value>Scifi, Weapon, Lightsaber, Energy, Whoosh, Pass By, Fast, Cut SND46300.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>192</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>10.35259375</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b8a6d918-b759-4c3e-9b07-5e4029250fc5}</destination>
+		</relationship>
+	</object>
+</objects>
