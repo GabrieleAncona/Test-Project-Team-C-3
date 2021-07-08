@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
 	<object class="Event" id="{44061a96-4f37-4e36-a337-5ba4efcd82da}">
+		<property name="color">
+			<value>Green</value>
+		</property>
 		<property name="name">
 			<value>sfx_menu</value>
 		</property>

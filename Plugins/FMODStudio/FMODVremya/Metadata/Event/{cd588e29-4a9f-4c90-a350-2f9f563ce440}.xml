@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
 	<object class="Event" id="{cd588e29-4a9f-4c90-a350-2f9f563ce440}">
+		<property name="color">
+			<value>Green</value>
+		</property>
 		<property name="name">
 			<value>sfx_punch</value>
 		</property>
@@ -111,7 +114,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{a7155857-1f5e-4a55-af24-9c253ad9f17e}">
 		<property name="volume">
-			<value>-5</value>
+			<value>-6</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>
@@ -140,9 +143,6 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{ad15f3dd-562c-4c5b-bc1c-e432b4bf237d}">
-		<property name="volume">
-			<value>-3.5</value>
-		</property>
 		<property name="name">
 			<value>Audio 2</value>
 		</property>
@@ -187,6 +187,7 @@
 		<relationship name="effects">
 			<destination>{d78b4193-227d-4742-9be5-2e4dd628c0ef}</destination>
 			<destination>{33977a47-c5eb-4bc1-96f8-89153360f63d}</destination>
+			<destination>{c80c420c-e1c4-467d-8677-40c24847f829}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{c83bd375-71ee-4e68-a351-5bdeca770cd2}" />
@@ -234,6 +235,11 @@
 		</property>
 		<property name="qualityA">
 			<value>0.50773567</value>
+		</property>
+	</object>
+	<object class="DistortionEffect" id="{c80c420c-e1c4-467d-8677-40c24847f829}">
+		<property name="level">
+			<value>0.194999993</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{c8da396c-8e85-4b32-90e2-046f983015e6}" />

@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
 	<object class="Event" id="{3ee841e3-cc37-4d0e-946c-1a3e4bc67192}">
+		<property name="color">
+			<value>Green</value>
+		</property>
 		<property name="name">
 			<value>sfx_jumpland</value>
 		</property>
@@ -113,6 +116,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{d2964f20-a869-45cd-9ff5-254e2dabc573}">
+		<property name="volume">
+			<value>-10</value>
+		</property>
 		<property name="name">
 			<value>Audio 1</value>
 		</property>
@@ -141,7 +147,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{263264a5-fb93-4f1f-b287-aaed1a389226}">
 		<property name="volume">
-			<value>-14.5</value>
+			<value>-13</value>
 		</property>
 		<property name="name">
 			<value>Audio 2</value>
@@ -238,7 +244,7 @@
 	<object class="MixerBusFader" id="{9f965091-568a-491b-9999-0be4b8f1046d}" />
 	<object class="SFXReverbEffect" id="{473b64e9-e815-4ff6-bd5c-215cf45de3a5}">
 		<property name="decayTime">
-			<value>900</value>
+			<value>800</value>
 		</property>
 		<property name="earlyDelay">
 			<value>12</value>
@@ -247,7 +253,7 @@
 			<value>17</value>
 		</property>
 		<property name="HFDecayRatio">
-			<value>64</value>
+			<value>58</value>
 		</property>
 		<property name="highCut">
 			<value>7800</value>
