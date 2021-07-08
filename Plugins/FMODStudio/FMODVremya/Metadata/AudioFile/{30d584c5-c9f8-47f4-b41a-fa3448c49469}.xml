@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
-	<object class="AudioFile" id="{a7c6e253-55c0-4ebe-b18c-f8d440e03769}">
+	<object class="AudioFile" id="{30d584c5-c9f8-47f4-b41a-fa3448c49469}">
 		<property name="assetPath">
-			<value>Swooshes, Whoosh, Short, High Freq Throws, Dry SND55451.wav</value>
+			<value>Fire, Misc, Designed, Wind Propeller, Spinning Flame SND42891.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>96</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.26819791666666665</value>
+			<value>0.86750000000000005</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{b8a6d918-b759-4c3e-9b07-5e4029250fc5}</destination>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
-	<object class="AudioFile" id="{35446851-56ee-43cc-b8a3-cda5e4ab2f5f}">
+	<object class="AudioFile" id="{be2040ea-5cec-48be-a41a-ab7fd0fc27ba}">
 		<property name="assetPath">
-			<value>Bullets, Impact, Dirt, Dry SND6344 5.wav</value>
+			<value>Trailer, Stinger, Swell, Reverse 01 SND11688 5.wav</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>96</value>
+			<value>44.0999985</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.97632291666666671</value>
+			<value>1.6029024943310657</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{b8a6d918-b759-4c3e-9b07-5e4029250fc5}</destination>

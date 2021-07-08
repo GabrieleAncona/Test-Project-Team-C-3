@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
-	<object class="AudioFile" id="{65e46fc2-e657-4089-b2b9-4d8cda08f1bf}">
+	<object class="AudioFile" id="{5226cb91-d9cb-4e34-8a75-b7fffc8df92b}">
 		<property name="assetPath">
-			<value>Swooshes, Whoosh, Short, Howling Mid, Dry 01 SND55453.wav</value>
+			<value>Designed, Boom, Riser Hit, Noisy Short Whoosh Hit 01 SND54966 2.wav</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>96</value>
@@ -11,7 +11,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>0.55666666666666664</value>
+			<value>2.6928229166666666</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{b8a6d918-b759-4c3e-9b07-5e4029250fc5}</destination>
