@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
 	<object class="Event" id="{39e12f32-48d3-4000-a054-08241c43ade7}">
+		<property name="color">
+			<value>Red</value>
+		</property>
 		<property name="name">
 			<value>sfx_platforms</value>
 		</property>

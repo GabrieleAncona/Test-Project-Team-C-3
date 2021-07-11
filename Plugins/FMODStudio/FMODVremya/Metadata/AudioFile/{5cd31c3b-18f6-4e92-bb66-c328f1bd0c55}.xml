@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{5cd31c3b-18f6-4e92-bb66-c328f1bd0c55}">
+		<property name="assetPath">
+			<value>sfx_medikit.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.4729931972789116</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{b8a6d918-b759-4c3e-9b07-5e4029250fc5}</destination>
+		</relationship>
+	</object>
+</objects>
