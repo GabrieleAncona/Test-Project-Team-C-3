@@ -239,7 +239,7 @@
 	</object>
 	<object class="DistortionEffect" id="{c80c420c-e1c4-467d-8677-40c24847f829}">
 		<property name="level">
-			<value>0.194999993</value>
+			<value>0.289999992</value>
 		</property>
 	</object>
 	<object class="MixerBusFader" id="{c8da396c-8e85-4b32-90e2-046f983015e6}" />
