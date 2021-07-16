@@ -96,7 +96,7 @@
 	</object>
 	<object class="EventMixerMaster" id="{7e17a7cf-6093-429f-8906-05a1e01781c3}">
 		<property name="volume">
-			<value>-3.5</value>
+			<value>-10</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{8cdcb3d2-5a4e-48f6-a1b0-02be3d970ea1}</destination>
@@ -312,6 +312,9 @@
 	<object class="MixerBusPanner" id="{f118e9e9-10a0-4648-911a-156ce51359b4}" />
 	<object class="MixerBusFader" id="{93edd33a-efa4-4cf8-9d18-467180f3b863}" />
 	<object class="SFXReverbEffect" id="{751ee01c-f351-46b3-9d22-bec3d5ba716c}">
+		<property name="decayTime">
+			<value>1000</value>
+		</property>
 		<property name="earlyDelay">
 			<value>12</value>
 		</property>
@@ -319,7 +322,7 @@
 			<value>17</value>
 		</property>
 		<property name="HFDecayRatio">
-			<value>85</value>
+			<value>69.5</value>
 		</property>
 		<property name="highCut">
 			<value>7800</value>
@@ -328,7 +331,7 @@
 			<value>71</value>
 		</property>
 		<property name="wetLevel">
-			<value>-4</value>
+			<value>0</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{f42abe96-ec61-4e0d-acea-98ac42bf6538}">

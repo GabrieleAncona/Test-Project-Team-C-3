@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.01.00">
 	<object class="Event" id="{94ca467a-9301-4bd5-84cb-b30ca5af4236}">
+		<property name="color">
+			<value>Green</value>
+		</property>
 		<property name="name">
 			<value>sfx_lasertrap</value>
 		</property>
@@ -61,6 +64,9 @@
 	<object class="EventAutomatableProperties" id="{ef154883-e0bf-4fca-8dd6-267ae5c21963}" />
 	<object class="MarkerTrack" id="{fbcdde20-8474-40a5-a490-8cf65ee60c0d}" />
 	<object class="GroupTrack" id="{40201118-d968-4874-8943-ca72226cf843}">
+		<relationship name="modules">
+			<destination>{84d6ded0-1afd-45e0-b3af-d281593d885e}</destination>
+		</relationship>
 		<relationship name="mixerGroup">
 			<destination>{a25138a0-66de-4f16-8caf-4a05ea521f6e}</destination>
 		</relationship>
@@ -87,12 +93,16 @@
 			<destination>{475bb5f3-071e-4364-b58e-c6c5e46c32d8}</destination>
 			<destination>{96d0ca0d-7f07-410d-aa7a-571a3352378a}</destination>
 			<destination>{ecccb4af-500a-459e-b0c3-dc07d50d9b7f}</destination>
+			<destination>{84d6ded0-1afd-45e0-b3af-d281593d885e}</destination>
 		</relationship>
 		<relationship name="markers">
 			<destination>{dd7d5edb-5258-47ea-b88c-698627e87e20}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{2eb6331c-1edf-4303-87b9-c716274de1a4}">
+		<property name="volume">
+			<value>-4</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{bf1e3e3d-d654-4fef-b803-cd3a16274d1f}</destination>
 		</relationship>
@@ -109,9 +119,17 @@
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{95823eee-331b-428a-9792-660d62a11d8b}" />
+	<object class="SingleSound" id="{84d6ded0-1afd-45e0-b3af-d281593d885e}">
+		<property name="length">
+			<value>21.15342403628118</value>
+		</property>
+		<relationship name="audioFile">
+			<destination>{c3606930-b499-440f-813a-69b38ce422b6}</destination>
+		</relationship>
+	</object>
 	<object class="EventMixerGroup" id="{a25138a0-66de-4f16-8caf-4a05ea521f6e}">
 		<property name="volume">
-			<value>-6</value>
+			<value>-2</value>
 		</property>
 		<property name="name">
 			<value>Audio 1</value>
@@ -153,7 +171,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{12106ba8-dc27-4860-a173-10d1c79d10be}">
 		<property name="volume">
-			<value>-31</value>
+			<value>-37</value>
 		</property>
 		<property name="name">
 			<value>Audio 2</value>
@@ -178,7 +196,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{3cf2130e-2cb7-41a0-8ad0-c33254ff804b}">
 		<property name="volume">
-			<value>-22</value>
+			<value>-24.5</value>
 		</property>
 		<property name="name">
 			<value>Audio 3</value>
@@ -218,6 +236,9 @@
 	<object class="MixerBusEffectChain" id="{4651fb23-16b0-461a-8ee3-29e546658fbb}">
 		<relationship name="effects">
 			<destination>{9bdc0c41-0f06-4102-9a07-182296a4c05f}</destination>
+			<destination>{49209574-a316-4602-96d5-30f7138658e7}</destination>
+			<destination>{8776e822-3c8f-4852-9333-746739a2d788}</destination>
+			<destination>{bc35a30c-cca8-4212-88df-b217ec13f104}</destination>
 		</relationship>
 	</object>
 	<object class="MixerBusPanner" id="{6ba20da7-4036-4b27-bdf9-923479e8c3c7}" />
@@ -257,6 +278,27 @@
 	<object class="MixerBusFader" id="{234e2040-f7b8-460c-aef9-4a700edc7d45}" />
 	<object class="SpatialiserEffect" id="{0380535b-07a7-4091-9ba3-b7bd62930eeb}" />
 	<object class="MixerBusFader" id="{9bdc0c41-0f06-4102-9a07-182296a4c05f}" />
+	<object class="FlangerEffect" id="{49209574-a316-4602-96d5-30f7138658e7}">
+		<property name="rate">
+			<value>0.0549999997</value>
+		</property>
+	</object>
+	<object class="DistortionEffect" id="{8776e822-3c8f-4852-9333-746739a2d788}">
+		<property name="level">
+			<value>0.299999982</value>
+		</property>
+	</object>
+	<object class="ThreeEQEffect" id="{bc35a30c-cca8-4212-88df-b217ec13f104}">
+		<property name="lowGain">
+			<value>10</value>
+		</property>
+		<property name="midGain">
+			<value>-5</value>
+		</property>
+		<property name="highGain">
+			<value>-12</value>
+		</property>
+	</object>
 	<object class="AutomationPoint" id="{713266c2-afb6-41f4-b8ed-109e458cf54f}">
 		<property name="position">
 			<value>9.5</value>
@@ -321,10 +363,10 @@
 			<value>10</value>
 		</property>
 		<property name="midGain">
-			<value>-30</value>
+			<value>-13</value>
 		</property>
 		<property name="highGain">
-			<value>-10</value>
+			<value>-10.5</value>
 		</property>
 	</object>
 	<object class="FlangerEffect" id="{87a09705-aa81-405c-945d-181c9301c63b}" />
