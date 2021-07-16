@@ -362,7 +362,7 @@
 	<object class="MixerBusFader" id="{d76af1c6-24dc-45dd-87ca-b52a3b08c25c}" />
 	<object class="DistortionEffect" id="{00af5659-5723-401c-b7e7-42b7162a960c}">
 		<property name="level">
-			<value>0.0799999982</value>
+			<value>0.149999991</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{68d27383-56e2-4862-b515-8ddb9b21a968}">
@@ -373,7 +373,7 @@
 			<value>0</value>
 		</property>
 		<property name="curveShape">
-			<value>0.240686879</value>
+			<value>0.353862405</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{10e04780-8e64-42d1-a59b-e6c21be29ce9}">
@@ -497,7 +497,7 @@
 			<value>0</value>
 		</property>
 		<property name="curveShape">
-			<value>0.287011862</value>
+			<value>0.388127744</value>
 		</property>
 	</object>
 	<object class="AutomationPoint" id="{702e622b-6a21-474e-a89d-a7c8951e53cc}">

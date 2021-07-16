@@ -116,6 +116,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerGroup" id="{686b33bc-3fcd-44ae-a3ef-54723f079d03}">
+		<property name="volume">
+			<value>-3</value>
+		</property>
 		<property name="name">
 			<value>deep noise</value>
 		</property>
@@ -154,7 +157,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{7c102a93-7233-4cb3-84ad-4e2cac85369a}">
 		<property name="volume">
-			<value>-19</value>
+			<value>-18</value>
 		</property>
 		<property name="name">
 			<value>metal</value>
